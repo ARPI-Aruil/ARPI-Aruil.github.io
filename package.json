@@ -1,0 +1,12 @@
+{
+  "name": "arpi",
+  "version": "1.0.0",
+  "description": "Associação de Reformados e Pensionistas 'Os Resistentes' de Aruil",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^10.0.1"
+  },
+  "author": "Courela"
+}
